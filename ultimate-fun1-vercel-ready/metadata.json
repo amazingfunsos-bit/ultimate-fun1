@@ -1,8 +1,0 @@
-{
-  "name": "Ultimate Fun",
-  "description": "Jokes, riddles, facts, challenges, memes, mini-games, and live community sync powered by Firebase.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
